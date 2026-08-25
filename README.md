@@ -4,7 +4,7 @@ This repository hosts the project page for:
 
 **hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising**
 
-<!-- [Project Page](https://hobit-emnlp.github.io/) · [Paper PDF](https://hobit-emnlp.github.io/static/pdf/hobit-paper.pdf) -->
+[Project Page](https://idealab-ku.github.io/hobit-emnlp/) · [Paper PDF](https://idealab-ku.github.io/hobit-emnlp/static/pdf/hobit-paper.pdf)
 
 ## Overview
 
